@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hoang Trung Nam
 - I am a fullstack developer  💻 with ReactJS NodeJS/AspCore. 😍
-- You can contact me via email address: namitus.hcmus@gmail.com 🤝
+- You can contact me 🤝 via email address 📨: namitus.hcmus@gmail.com 
 
 ## Technical Skills
 
