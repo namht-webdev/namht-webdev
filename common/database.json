@@ -1,0 +1,45 @@
+{
+  "family": [
+    {
+      "id": 1,
+      "name": "Hoàng Trung Kỳ",
+      "year-of-birth": 1965,
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Thị Thoa",
+      "year-of-birth": 1969,
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Hoàng Trung Sơn",
+      "year-of-birth": 1989,
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "name": "Hoàng Trung Quốc",
+      "year-of-birth": 1990,
+      "gender": "Male"
+    },{
+      "id": 5,
+      "name": "Hoàng Thị Thùy Linh",
+      "year-of-birth": 1992,
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "name": "Hoàng Trung Nam",
+      "year-of-birth": 1999,
+      "gender": "Male"
+    },
+    {
+      "id": 7,
+      "name": "Hoàng Thị Thùy My",
+      "year-of-birth": 2006,
+      "gender": "Female"    
+    }
+  ]
+}
